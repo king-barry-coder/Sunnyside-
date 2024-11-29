@@ -22,7 +22,7 @@
 }
 
 header {
-     border: 2px solid red; 
+     /* border: 2px solid red;  */
     min-height: 100vh;
     background-image: url(./images/desktop/image-header.jpg);
     background-position: center;
@@ -94,12 +94,12 @@ ul li{
 
 
 .egg{
-     border: 2px solid red; 
+     /* border: 2px solid red;  */
     display: flex;
 }
 
 .eggt{
-     border: 2px solid blue; 
+     /* border: 2px solid blue;  */
     height: 500px;
     width: 50%;
     display: flex; 
@@ -134,7 +134,7 @@ max-width: 350px;
 
 
 .eggimg{
-     border: 2px solid green;
+     /* border: 2px solid green; */
     height:500px;
     width: 50%;
     background-image: url(./images/desktop/image-transform.jpg);
@@ -160,7 +160,7 @@ max-width: 350px;
 }
 
 .cup{
-     border: 2px solid green; 
+     /* border: 2px solid green;  */
     width: 50%;
     height: 500px;
     background-image: url(./images/desktop/image-stand-out.jpg);
@@ -170,14 +170,14 @@ max-width: 350px;
 }
 
 .standout{
-    border: 2px solid brown; 
+    /* border: 2px solid brown;  */
     width: 50%;
     height: 500px;
     display: flex;
 }
 
 .re{
-     border: 2px solid black; 
+     /* border: 2px solid black;  */
     width: 100%;
     height: 100%;
     display: flex;
@@ -219,11 +219,11 @@ max-width: 350px;
 
 .design{
     display: flex;
-    border: 2px solid palevioletred; 
+    /* border: 2px solid palevioletred;  */
 }
 
 .graphic{
-     border: 2px solid violet; 
+     /* border: 2px solid violet;  */
     width: 50%;
     height: 500px;
     background-image: url(./images/desktop/image-graphic-design.jpg);
@@ -236,7 +236,7 @@ max-width: 350px;
 
 
 .off{
-     border: 2px solid red; 
+     /* border: 2px solid red;  */
     width: 100%;
     height: 100%;
     display: flex;
@@ -265,7 +265,7 @@ max-width: 350px;
 
 
 .photo{
-    border: 2px solid green; 
+    /* border: 2px solid green;  */
     width: 50%;
     height: 500px;
     background-image: url(./images/desktop/image-photography.jpg);
@@ -309,7 +309,7 @@ max-width: 350px;
 
 
 .main{
-    border: 2px solid black; 
+    /* border: 2px solid black;  */
     width: 100%;
     height: auto;
     background-color: rgb(255, 255, 255);
@@ -317,7 +317,7 @@ max-width: 350px;
 
 .holla{
 display: flex;
- border: 5px solid red; 
+ /* border: 5px solid red;  */
 width: 100%;
 margin-top: 8px;
 justify-content: center;
@@ -335,7 +335,7 @@ justify-content: center;
 }
 
 .first {
-    border: 2px solid green; 
+    /* border: 2px solid green;  */
     width: 20% ;
     height: 400px;
     margin: 15px;
@@ -355,7 +355,7 @@ justify-content: center;
 
 }
 .rer{
-     border: 2px solid black; 
+     /* border: 2px solid black;  */
      max-height: 150px; 
     margin-bottom: 40px;
 
@@ -384,7 +384,7 @@ justify-content: center;
 }
 
 .second{
-     border: 2px solid blue;
+     /* border: 2px solid blue; */
     width: 20% ;
     height: 400px;
     margin: 15px;
@@ -393,7 +393,7 @@ justify-content: center;
 
 
 .third{
-     border: 2px solid violet; 
+     /* border: 2px solid violet;  */
     width: 20% ;
     height: 400px;
     margin: 15px;
@@ -406,7 +406,7 @@ justify-content: center;
 }
 
 .four{  
-    border: 2px solid indigo; 
+    /* border: 2px solid indigo;  */
     height: fit-content;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -453,7 +453,7 @@ justify-content: center;
 
 footer{
     display: block; 
-    border: 2px solid green;
+    /* border: 2px solid green; */
     background-color: var(--Dark-moderate-cyan);
     height: 350px;
     max-width: 100%;
@@ -472,14 +472,14 @@ ul{
 }
 
 li{
-    border: 2px solid white;
+    /* border: 2px solid white; */
     border-radius: 50px;
     margin: 5px;
     padding: 10px;
 }
 
 .social{
-     border: 2px solid black; 
+     /* border: 2px solid black;  */
     display: flex;
     justify-content: center;
     margin-top: 50px;
